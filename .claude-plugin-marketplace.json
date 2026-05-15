@@ -1,0 +1,11 @@
+{
+  "name": "cursor-plugin-cc",
+  "description": "Marketplace hosting the cursor-delegate plugin for Claude Code.",
+  "plugins": [
+    {
+      "name": "cursor-delegate",
+      "path": ".",
+      "description": "Delegate coding tasks from Claude Code to the Cursor CLI."
+    }
+  ]
+}
