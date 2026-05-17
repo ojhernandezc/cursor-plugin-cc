@@ -1,10 +1,15 @@
 {
   "name": "cursor-plugin-cc",
   "description": "Marketplace hosting the cursor-delegate plugin for Claude Code.",
+  "owner": {
+    "name": "Omar Hernandez",
+    "email": "ojhernandezc@gmail.com",
+    "url": "https://github.com/ojhernandezc"
+  },
   "plugins": [
     {
       "name": "cursor-delegate",
-      "path": ".",
+      "source": "./",
       "description": "Delegate coding tasks from Claude Code to the Cursor CLI."
     }
   ]
