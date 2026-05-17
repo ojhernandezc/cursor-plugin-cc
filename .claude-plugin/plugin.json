@@ -7,9 +7,6 @@
     "email": "ojhernandezc@gmail.com"
   },
   "homepage": "https://github.com/ojhernandezc/cursor-plugin-cc",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/ojhernandezc/cursor-plugin-cc.git"
-  },
+  "repository": "https://github.com/ojhernandezc/cursor-plugin-cc",
   "license": "MIT"
 }
